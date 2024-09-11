@@ -1,0 +1,6 @@
+.idea/
+venv/
+machine_learning/lesson_17/train_cut.csv/
+machine_learning/lesson_9/train.csv/
+deeplearning/lesson7/data/embeddings.pt/
+echo "deeplearning/lesson7/embeddings3.pt/
